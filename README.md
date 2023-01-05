@@ -1,3 +1,3 @@
-# PROJECT_NAME
+# Zootronian Encrypted Messaging
 
-PROJECT_BRIEF
+Password-based encrypted streams for video game netcode
